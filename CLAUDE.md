@@ -6,7 +6,7 @@ The full project guide is in `AGENTS.md` (imported above). Everything there appl
 
 ---
 
-## Working with the founder (Durgesh)
+## Working with the founder (VINAY)
 
 - Durgesh is the product owner. **He has no programming background.** Explain in plain words, no jargon without a one-line meaning.
 - He prefers replies in **Marathi (Devanagari script)**, keeping technical words in English, e.g. "हा `npm run dev` command चालवा, मग browser मध्ये `localhost:3000` उघडा."
