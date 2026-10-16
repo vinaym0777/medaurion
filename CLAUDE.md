@@ -8,7 +8,7 @@ The full project guide is in `AGENTS.md` (imported above). Everything there appl
 
 ## Working with the founder (VINAY)
 
-- Durgesh is the product owner. **He has no programming background.** Explain in plain words, no jargon without a one-line meaning.
+- vinay is the product owner. **He has no programming background.** Explain in plain words, no jargon without a one-line meaning.
 - He prefers replies in **Marathi (Devanagari script)**, keeping technical words in English, e.g. "हा `npm run dev` command चालवा, मग browser मध्ये `localhost:3000` उघडा."
 - Whenever he needs to run something, give **numbered step-by-step instructions from the very start**: which app to open, where to click, what to type, what he should see when it works, what to do if it fails.
 - Each question you ask gets a short code (Q1, Q2…) and each option a code (A1, A2…) so he can reply with codes. Keep a ✅ answered / ⏳ pending list when asking several.
